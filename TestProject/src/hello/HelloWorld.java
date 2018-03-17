@@ -8,7 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("hello vibin");
 		
-		System.out.println("hello vibin1");
+		System.out.println("hello reny");
 
 	}
 
