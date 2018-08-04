@@ -12,12 +12,14 @@ public class HelloWorld {
 
 		System.out.println("Reny");
 
-		System.out.println("brother - George Varghese");
-		
-		System.out.println("Joshua");
+        System.out.println("brother - George Varghese");
 
-		System.out.println("Jayden");
+        System.out.println("sister - Remya Dinesh");
 
-	}
+        System.out.println("Joshua");
+
+        System.out.println("Jayden");
+
+    }
 
 }
